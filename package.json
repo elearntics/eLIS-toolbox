@@ -1,0 +1,15 @@
+{
+  "name": "eLIS-web-toolbox",
+  "version": "0.1.0",
+  "description": "eLIS components for web based eLearning applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.2.7",
+    "lit-element": "^2.1.0"
+  }
+}
